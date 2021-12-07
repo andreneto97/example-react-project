@@ -30,6 +30,6 @@ jobs:
       # Run Garnet github action
       - name: Garnet
         id: hello
-        uses: andreneto97/garnet-action@59124249a3b0a4fbcbe65217d85c129fd8b68fa2
+        uses: andreneto97/garnet-action@07ccd1f3d1c43f367c9995590bf0028834c8b213
         with:
           repo-token: ${{ secrets.GH_PATS }}

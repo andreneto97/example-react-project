@@ -6,7 +6,7 @@ Change to Trigget the CI
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, youaaa can run:
 
 ### `yarn start`
 

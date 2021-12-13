@@ -33,3 +33,4 @@ jobs:
         uses: andreneto97/garnet-action@09577b096f5cdee8e3eb99bbc58b7cbed5e13e1c
         with:
           repo-token: ${{ secrets.GH_PATS }}
+          garnet-token: ${{ secrets.GARNET_TOKEN }}

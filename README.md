@@ -6,7 +6,7 @@ Change to Trigget the CI
 s
 ## Available Scripts
 s
-In the project directory, youassaa can run:
+In the project directory, youasssaa can run:
 
 ### `yarn start`a
 

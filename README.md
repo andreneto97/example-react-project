@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Change to Trigget the CI
 s
 ## Available Scripts
-s
+ss
 In the project directory, you can run:
 
 ### `yarn start`

@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Change to Trigget the CI
+Change to Trigget the CIa
 
 ## Available Script
 ss

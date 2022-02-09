@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Change to Trigget the CI
-s
+
 ## Available Script
 ss
 In the project directory, you can run:

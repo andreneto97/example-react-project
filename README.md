@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Change to Trigget the CI
 s
-## Available Scripts
+## Available Script
 ss
 In the project directory, you can run:
 
